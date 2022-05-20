@@ -1,0 +1,144 @@
+header{
+    width: 136rem;
+    height: 6rem;
+    background-color: cadetblue;
+   
+    display: flex;
+    flex-direction: row;
+}
+.bb{
+    width: 20rem;
+    height: 4rem;
+    background-color: red;
+    position: relative;
+    right: -100rem;
+    margin: 10px 0px 0px 15px;
+}
+.tex{
+text-align: center;
+font-size: 2rem;
+margin: 10px 10px 10px 10px;
+}
+.lupa{
+    max-height: 4rem;
+    position: relative;
+    right: -100rem;
+    margin: 10px 10px 10px 20px;
+}
+aside{
+    width: 90rem;
+    height: 34rem;
+    background-color: black;
+    margin: 5px 0px 0px 5px;
+    
+    display: flex;
+    flex-direction: row;
+    
+}
+.barra{
+    width: 50rem;
+    height: 3rem;
+    background-color: green;
+    position: relative;
+    left: 1rem;
+    margin-top: 30rem;
+    
+}
+.jeje{
+    width: 48rem;
+    height: 100rem;
+    background-color: black;
+    position: relative;
+    right: -45rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.uno, .dos, .tres, .cuatro, .sinco{
+    
+    
+    position: relative;
+    right: -14rem;
+}
+.uno{
+    width: 25rem;
+    height: 12rem;
+    margin: 8rem 1rem 1rem 1rem;
+}
+.me{
+    max-width: 25rem;
+    max-height: 12rem;
+}
+.dos{
+    width: 25rem;
+    height: 12rem;
+    margin: 2rem 1rem 1rem 1rem;
+}
+.tres{
+    width: 25rem;
+    height: 12rem;
+    margin: 2rem 1rem 1rem 1rem;
+}
+.cuatro{
+    width: 25rem;
+    height: 12rem;
+    margin: 2rem 1rem 1rem 1rem;
+}
+.sinco{
+    width: 34rem;
+    height: 30rem;
+    margin: 2rem 1rem 1rem 1rem;
+    right: -5rem;
+}
+.java{
+    display: flex;
+    flex-direction: row;
+}
+.mar1, .mar2, .mar3{
+    width: 27rem;
+    height: 21rem;
+    background-color: pink;
+    margin: 2rem 1rem 1rem 2rem;
+}
+.fila{
+    display: flex;
+    flex-direction: row;
+}
+.mar4, .mar5, .mar6{
+    width: 27rem;
+    height: 21rem;
+    background-color: pink;
+    margin: 2rem 1rem 1rem 2rem;
+}
+.morado{
+    width: 20rem;
+    height: 16rem;
+    background-color: yellow;
+    margin: 2rem 1rem 1rem 2rem;
+}
+
+.mar7, .mar8, .mar9{
+    width: 27rem;
+    height: 2rem;
+    background-color: pink;
+    margin: 2rem 1rem 1rem 2rem;
+    position: relative;
+    right: -20rem;
+}
+.mar7{
+    width: 64rem;
+    height: 2rem;
+    background-color: green;
+}
+.mar8{
+    width: 64rem;
+    height: 2rem;
+    background-color: greenyellow;
+}
+.mar9{
+    width: 20rem;
+    height: 2rem;
+    background-color: rgb(139, 231, 0);
+}
+
